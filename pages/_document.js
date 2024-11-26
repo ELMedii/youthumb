@@ -27,6 +27,11 @@ class MyDocument extends Document {
         <body>
           <Main />
           <NextScript />
+          <div id="additional-info">
+            <p>
+              "Welcome to our YouTube Thumbnail Downloader, the fastest way to grab high-quality thumbnails from YouTube videos. Whether you're creating content, need a reference image, or just want to save a stunning thumbnail, our tool allows you to easily download high-definition, 4K, and standard quality thumbnails for any video. Use our free tool today and enjoy quick access to professional-grade images!"
+            </p>
+          </div>
         </body>
       </Html>
     );
